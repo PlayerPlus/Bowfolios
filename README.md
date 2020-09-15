@@ -19,12 +19,12 @@ In week 3, I was setting up all my required programs and libraries I will need. 
 
 1. There are two options to try out the app. You can retrieve the Bowfolios source code from our GitHub repository <a href="https://github.com/PlayerPlus/Bowfolios">here</a>.
 
-2. You can try out the app on an android simulator.
+2. You can try out the app on an android/IOS simulator.
 
 1.1 Clone the repository to GitHub Desktop.
 
 1.3 Open it with Command Prompt and type cd bowfolios to change to the app folder
 
-1.4 Type 'npm install' and after it is done, type 'npx react-native run-android' to run the program.
+1.4 Type 'npm install' and after it is done, type 'npm run android' or 'npm run ios'  to run the program.
 
 2.1 
