@@ -28,3 +28,4 @@ In week 3, I was setting up all my required programs and libraries I will need. 
 1.4 Type 'npm install' and after it is done, type 'npm run android' or 'npm run ios'  to run the program.
 
 2.1 
+![Screenshot](progress.png)
